@@ -7,9 +7,15 @@ These Benchmarks are intended as a contribution to the [Secondary GPU Max LSFG C
 ### GTX 770 @ PCIe 2.0 x 16
 - EDID quirks. Some resolution/refresh rate combos which get shown for other GPUs can't be selected with the GTX 770 in Windows 10 with some monitors, dummy plugs or my capture cards. 1080p144,1440p120 and 4k30 show up fairly consistently.
 
+### GTX 780 @ PCIe 2.0 x 16
+max frame rates that can be selected for displays connected to the GPU:
+- 1080p165 on 1440p165 Monitor
+- 1440p120 on 1440p165 Monitor
+- 4k60 on 4k144 Monitor
+
+### GTX 1660 Ti @ PCIe 2.0 x 16
+
 ## Planned Tests:
-- GTX 1660 Ti @ PCIe 2.0 x 16
-- GTX 780 @ PCIe 2.0 x 16
 - RX 5700 XT @ PCIe 2.0 x 16
 - RX 5700 XT @ PCIe 4.0 x 4
 - RX 5500 XT @ PCIe 2.0 x 16
