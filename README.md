@@ -1,0 +1,28 @@
+# Lossless Scaling Benchmarks
+
+These Benchmarks are intended as a contribution to the [Secondary GPU Max LSFG Capability Chart](https://docs.google.com/spreadsheets/d/17MIWgCOcvIbezflIzTVX0yfMiPA_nQtHroeXB1eXEfI/edit?gid=1980287470#gid=1980287470).
+
+## Tested GPUs:
+
+### GTX 770 @ PCIe 2.0 x 16
+- EDID quirks. Some resolution/refresh rate combos which get shown for other GPUs can't be selected with the GTX 770 in Windows 10 with some monitors, dummy plugs or my capture cards. 1080p144,1440p120 and 4k30 show up fairly consistently.
+
+## Planned Tests:
+- GTX 1660 Ti @ PCIe 2.0 x 16
+- GTX 780 @ PCIe 2.0 x 16
+- RX 5700 XT @ PCIe 2.0 x 16
+- RX 5700 XT @ PCIe 4.0 x 4
+- RX 5500 XT @ PCIe 2.0 x 16
+- RX 5500 XT @ PCIe 4.0 x 4
+
+### Used Hardware
+
+## AM5 Platform
+Board: ASRock B850M Pro-A
+
+## LGA1366 Platform
+Board: Gigabyte x58a-u3dr (2 x PCIe 2.0 x 16 slots)
+
+## Monitors
+- 4k144Hz Monitor, SDR
+- 1440p165Hz Monitor, SDR
