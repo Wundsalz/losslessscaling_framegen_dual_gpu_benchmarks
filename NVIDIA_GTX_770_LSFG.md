@@ -78,31 +78,31 @@ Output Port: DP
 ### Test 1
 > **Flow Scale:** 100
 > **Performance:** Off
-Wattage: **70%**
-Framerate (stable): **30 / 60**
+Wattage: **195W**
+Framerate (stable): **32 / 64**
 Framerate (unstable): **32 / 64**
 
 ### Test 2
 > **Flow Scale:** 100
 > **Performance:** On
-Wattage: **63%**
-Framerate (stable): **42 / 84**
-Framerate (unstable): **54 / 106**
+Wattage: **170W**
+Framerate (stable): **45 / 90**
+Framerate (unstable): **56 / 110**
 
 ### Test 3
 > **Flow Scale:** [4K=50] (recommended)
 > **Performance:** Off
-Wattage: **56%**
-Framerate (stable): **48 / 96**
-Framerate (unstable): **58 / 117**
+Wattage: **148W**
+Framerate (stable): **60 / 120**
+Framerate (unstable): **60 / 120**
 
 
 ### Test 4
 > **Flow Scale:** [4K=50] (recommended)
 > **Performance:** On
-Wattage: **54%**
-Framerate (stable): **52 / 104**
-Framerate (unstable): **60 / 119**
+Wattage: **126W**
+Framerate (stable): **60 / 120**
+Framerate (unstable): **60 / 120**
 
 
 
