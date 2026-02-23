@@ -1,8 +1,8 @@
-#Test results for NVIDIA GTX 770
+#Test results for NVIDIA GTX 780
 
 ## -- System Information --
 > **Operating System:** Windows 10
-> **LSFG GPU:** GPU (MODEL) [specs](https://de.msi.com/Graphics-Card/N770-TF-2GD5OC/Specification) 
+> **LSFG GPU:** NVIDIA GTX 780 (DELL reference model)
 > **Render GPU:** RX 5700 XT (Sapphire Pulse)
 > **Primary PCIe:** 2.0 x16
 > **Secondary PCIe:** 2.0 x16

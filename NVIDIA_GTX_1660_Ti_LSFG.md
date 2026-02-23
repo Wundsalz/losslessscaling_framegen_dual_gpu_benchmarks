@@ -1,8 +1,8 @@
-#Test results for NVIDIA GTX 770
+#Test results for NVIDIA GTX 1660 Ti
 
 ## -- System Information --
 > **Operating System:** Windows 10
-> **LSFG GPU:** GPU (MODEL) [specs](https://de.msi.com/Graphics-Card/N770-TF-2GD5OC/Specification) 
+> **LSFG GPU:** NVIDIA GTX 1660 Ti (Gigabyte GTX 1660 Ti MINI ITX OC 6G) [specs](https://www.gigabyte.com/Graphics-Card/GV-N166TIXOC-6GD) 
 > **Render GPU:** RX 5700 XT (Sapphire Pulse)
 > **Primary PCIe:** 2.0 x16
 > **Secondary PCIe:** 2.0 x16
